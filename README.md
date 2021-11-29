@@ -1,20 +1,30 @@
 ### Hi there 👋
 
-<!--
-**carterjc/carterjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Carter, a high school senior interested in full stack apps, cybersecurity, server management, and much more.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterjc&show_icons=true&count_private=true&theme=radical&border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carterjc&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/Code-react-informational?style=for-the-badge&logo=react&color=ff428e" />
+  <img align="center" src="https://img.shields.io/badge/Code-node-informational?style=for-the-badge&logo=node.js&color=ff428e" />
+  <img align="center" src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=ff428e" />
+  <img align="center" src="https://img.shields.io/badge/Code-java-informational?style=for-the-badge&logo=java&color=ff428e" />
+</p>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=carterjc&show_icons=true&count_private=true&theme=radical&hide_border=true)
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/Main OS-MacOS-informational?style=for-the-badge&logo=apple&color=2bf5e9" />
+  <img align="center" src="https://img.shields.io/badge/Main OS-Windows-informational?style=for-the-badge&logo=linux&color=2bf5e9" />
+  <img align="center" src="https://img.shields.io/badge/Server OS-Ubuntu-informational?style=for-the-badge&logo=linux&color=2bf5e9" />
+  <img align="center" src="https://img.shields.io/badge/Server OS-Debian-informational?style=for-the-badge&logo=linux&color=2bf5e9" />
+</p>
 
-![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carterjc&show_icons=true&count_private=true&theme=radical&border=false)
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=ff428e" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=carterjc&style=flat&color=2bf5e9" />
+</p>
