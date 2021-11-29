@@ -10,7 +10,8 @@ Hello, my name is Carter, a high school senior interested in full stack apps, cy
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/Code-react-informational?style=for-the-badge&logo=react&color=ff428e" />
   <img align="center" src="https://img.shields.io/badge/Code-node-informational?style=for-the-badge&logo=node.js&color=ff428e" />
-  <img align="center" src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=ff428e" />
+  <img align="center" src="https://img.shields.io/badge/Code-python-informational?style=for-the-badge&logo=python&color=ff428e" />
+  <img align="center" src="https://img.shields.io/badge/Code-powershell-informational?style=for-the-badge&logo=powershell&color=ff428e" />
   <img align="center" src="https://img.shields.io/badge/Code-java-informational?style=for-the-badge&logo=java&color=ff428e" />
 </p>
 
