@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is Carter, a high school senior interested in full stack apps, cybersecurity, server management, and much more.
+Hello, my name is Carter, a freshman at Princeton interested in full stack apps, cybersecurity, server management, and much more.
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterjc&show_icons=true&count_private=true&theme=radical&border=false" />
