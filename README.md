@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Hello, my name is Carter, a freshman at Princeton interested in full stack apps, cybersecurity, server management, and much more.
+- I'm Carter, a freshman at Princeton University
+- I'm interested in cybersecurity, full stack development, server management, DevOps, but always love to learn something new
+- Feel free to reach me at any of the links on the left sidebar!
+
+<br />
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterjc&show_icons=true&count_private=true&theme=radical&border=false" />
@@ -24,8 +28,4 @@ Hello, my name is Carter, a freshman at Princeton interested in full stack apps,
 
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=ff428e" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=carterjc&style=flat&color=2bf5e9" />
 </p>
