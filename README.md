@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm Carter, a freshman at Princeton University
+- I'm Carter, a sophomore at Princeton University
 - I'm interested in cybersecurity, full stack development, server management, DevOps, but always love to learn something new
 - Feel free to reach me at any of the links on the left sidebar!
 
