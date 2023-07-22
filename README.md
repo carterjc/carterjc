@@ -7,11 +7,6 @@
 <br />
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterjc&show_icons=true&count_private=true&theme=radical&border=false" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carterjc&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
   <img align="center" src="https://img.shields.io/badge/Code-react-informational?style=for-the-badge&logo=react&color=ff428e" />
   <img align="center" src="https://img.shields.io/badge/Code-node-informational?style=for-the-badge&logo=node.js&color=ff428e" />
   <img align="center" src="https://img.shields.io/badge/Code-python-informational?style=for-the-badge&logo=python&color=ff428e" />
