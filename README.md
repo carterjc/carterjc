@@ -1,1 +1,1 @@
-Interested in software and cybersecurity research. CS @ Princeton
+Interested in software, networking, and cybersecurity. CS @ Princeton
